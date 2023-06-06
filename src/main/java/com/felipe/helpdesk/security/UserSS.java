@@ -19,7 +19,7 @@ public class UserSS implements UserDetails {
 	private Collection<? extends GrantedAuthority> authorities;
 
 	
-	
+	//teste
 	public Integer getId() {
 		return id;
 	}
